@@ -1,5 +1,6 @@
 # Hugo configuration file
 title: AERO Lab
+baseURL: "https://bowendu-nus.github.io/aerolab/"
 
 # import hextra as module
 module:
@@ -25,7 +26,6 @@ menu:
       pageRef: /people
       weight: 2
     - name: News
-      #url: "https://github.com/imfing"
       pageRef: /news
       weight: 3
     - name: Search
@@ -50,7 +50,6 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
-      link: /
       width: 40
       height: 20
 

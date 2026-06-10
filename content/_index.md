@@ -13,7 +13,7 @@ The **AERO Lab** studies the air we breathe — the health and cognitive impacts
 <!-- PI Section -->
 ## Principal Investigator
 
-{{< figure src="/images/pi.jpeg" width="400" alt="Bowen Du" caption="Bowen Du, PhD — Principal Investigator" class="align-center" >}}
+{{< figure src="images/pi.jpeg" width="400" alt="Bowen Du" caption="Bowen Du, PhD — Principal Investigator" class="align-center" >}}
 
 **Bowen Du, PhD**  
 Assistant Professor, AERO Lab  
