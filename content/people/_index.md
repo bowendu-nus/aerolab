@@ -3,4 +3,4 @@ title: People
 draft: false
 ---
 
-{{< figure src="../images/Snoopy-recruit.png" alt="Recruit" width="400" >}}
+{{< figure src="../images/Snoopy-recruit.png" alt="Recruit" width="300" >}}

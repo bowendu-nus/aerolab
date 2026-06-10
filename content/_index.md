@@ -8,6 +8,9 @@ draft: false
 
 The **AERO Lab** studies the air we breathe — the health and cognitive impacts of air pollutants, building ventilation and filtration, and data-driven identification and control of indoor pollution sources.
 
+{{< figure src="images/lab.png" width="700" class="align-center" >}}
+
+
 ---
 
 <!-- PI Section -->
@@ -32,7 +35,7 @@ Dr. Bowen Du holds a PhD in Civil Engineering (with a specialization in Psycholo
 
 ## News
 
-{{</* recent-news limit="1" */>}}
+{{< recent-news limit="1" >}}
 
 ---
 

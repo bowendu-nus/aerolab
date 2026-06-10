@@ -1,9 +1,9 @@
 ---
-title: "My Blog Post"
-date: 2026-03-21
-featured_image: cover.png
-summary: "Birthday!"
+title: "The journey begins"
+date: 2026-06-01
+featured_image: cover.png 
+summary: "Dr. Bowen Du joins the Department of the Built Environment, NUS"
 ---
 
 ![](cover.png)
-This is a test
+Dr. Bowen Du joins the Department of the Built Environment, National University of Singapore on 1 July, 2026 as a Tenure-Track Assistant Professor
