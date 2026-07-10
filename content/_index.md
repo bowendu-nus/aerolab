@@ -41,7 +41,7 @@ Dr. Bowen Du holds a PhD in Civil Engineering (with a specialization in Psycholo
 
 ## Join Us
 
-We are accepting **PhD students for the January 2027 intake (apply by 1 August)**.
+We are accepting **PhD students for the January 2027 intake (apply by 1 August for international students and 1 September for domestic)**.
 
 To apply, please send your **CV** and a **short cover letter** to **bowen.du@nus.edu.sg**.  
 Your cover letter should include:
