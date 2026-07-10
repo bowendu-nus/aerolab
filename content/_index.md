@@ -43,13 +43,13 @@ Dr. Bowen Du holds a PhD in Civil Engineering (with a specialization in Psycholo
 
 We are accepting **PhD students for the January 2027 intake (apply by 1 August)**.
 
-To apply, please send your **CV** and a **short cover letter** to **aerolab.nus@gmail.com**.  
+To apply, please send your **CV** and a **short cover letter** to **bowen.du@nus.edu.sg**.  
 Your cover letter should include:
 
 - **Motivations for pursuing a PhD at our lab**  
 - **Education background**  
 - **Research interests** (2–3 sentences)  
-- **Two writing samples** — published journal papers preferred; for each, include a **link** and a **brief summary**  
+- **Two writing samples** — published journal papers preferred but not required; for each, include a **link** and a **brief summary** (where applicable)
 - **Anticipated starting time**
 
 For further information on admissions, please refer to:  
