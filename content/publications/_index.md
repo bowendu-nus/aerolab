@@ -5,7 +5,9 @@ draft: false
 
 <!-- Publications Section -->
 ## Publications
-
+- **ATLAS: A Performance-Based Index for Integrated Evaluation and Benchmarking of Indoor Environmental Quality**  
+  **B Du**, Sarah Crosby, Cairan Alexander Van Rooyen, Dusan Licina
+  *Building and Environment*, https://doi.org/10.1016/j.buildenv.2026.114985
 
 
 ---
