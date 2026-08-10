@@ -1,5 +1,5 @@
 ---
-title: "AERO Lab"
+title: ""
 draft: false
 ---
 
