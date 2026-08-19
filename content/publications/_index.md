@@ -8,11 +8,11 @@ draft: false
 
 ## 2026
 - **ATLAS: A Performance-Based Index for Integrated Evaluation and Benchmarking of Indoor Environmental Quality**  
-  **B Du**, Sarah Crosby, Cairan Alexander Van Rooyen, Dusan Licina
+  **B Du**, Sarah Crosby, Cairan Alexander Van Rooyen, Dusan Licina  
   *Building and Environment*, https://doi.org/10.1016/j.buildenv.2026.114985
 
 - **AShort-Term Impact of a Portable Air Cleaner on Cognitive Performance**  
-  MR Nahian, **B Du**, AY Mendell, Z Hoskin, R Daneshazarian, M Gumus, A Bourganos, M Mack, JA Siegel
+  MR Nahian, **B Du**, AY Mendell, Z Hoskin, R Daneshazarian, M Gumus, A Bourganos, M Mack, JA Siegel  
   *ES&T Air*, https://doi.org/10.1021/acsestair.6c00209
 
 ---
